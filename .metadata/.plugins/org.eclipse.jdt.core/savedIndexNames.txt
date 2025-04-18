@@ -1,0 +1,9 @@
+INDEX VERSION 1.134+C:\Users\user\Desktop\Music Store Management System\.metadata\.plugins\org.eclipse.jdt.core
+3413270776.index
+1865797976.index
+1035866845.index
+3182736530.index
+586128966.index
+3204630884.index
+1091760560.index
+1752912544.index
